@@ -1,0 +1,8 @@
+    TEST CASES FOR COUNT OF LINES,CHARACTERS,VOWELS,LONGEST WORD PROGRAM
+        
+    input file contains words, multiple lines
+	input file contains words, one line
+	input file contains only one word in each line
+	input file contains only one word one line
+	input file contains blank lines (no char/word)
+	input file is blank (no char/word)
